@@ -1,0 +1,2 @@
+Ran below cmd :
+ansible-playbook ansible-install.yml -i inventory --private-key key_file
